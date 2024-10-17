@@ -1,18 +1,66 @@
 {
     "ar": {
         "subscriptionTitle": "اختر خطة الاشتراك",
-        "addToCartButton": "أضف إلى السلة"
+        "addToCartButton": {
+            "text": "أضف إلى السلة",
+            "style": {
+                "backgroundColor": "#E91E63",
+                "color": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px 20px",
+                "fontSize": "16px",
+                "fontWeight": "bold",
+                "border": "none",
+                "cursor": "pointer"
+            }
+        }
     },
     "es": {
         "subscriptionTitle": "Elige el plan de suscripción",
-        "addToCartButton": "Agregar al carrito"
+        "addToCartButton": {
+            "text": "Agregar al carrito",
+            "style": {
+                "backgroundColor": "#E91E63",
+                "color": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px 20px",
+                "fontSize": "16px",
+                "fontWeight": "bold",
+                "border": "none",
+                "cursor": "pointer"
+            }
+        }
     },
     "en": {
         "subscriptionTitle": "Choose Subscription plan",
-        "addToCartButton": "Add to Cart"
+        "addToCartButton": {
+            "text": "Add to Cart",
+            "style": {
+                "backgroundColor": "#E91E63",
+                "color": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px 20px",
+                "fontSize": "16px",
+                "fontWeight": "bold",
+                "border": "none",
+                "cursor": "pointer"
+            }
+        }
     },
     "fr": {
         "subscriptionTitle": "Choisissez un plan d'abonnement",
-        "addToCartButton": "Ajouter au panier"
+        "addToCartButton": {
+            "text": "Ajouter au panier",
+            "style": {
+                "backgroundColor": "#E91E63",
+                "color": "#FFFFFF",
+                "borderRadius": "5px",
+                "padding": "10px 20px",
+                "fontSize": "16px",
+                "fontWeight": "bold",
+                "border": "none",
+                "cursor": "pointer"
+            }
+        }
     }
-}
+            }
