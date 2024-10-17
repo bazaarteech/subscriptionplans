@@ -1,82 +1,18 @@
 {
-    "sa": {
+    "ar": {
         "subscriptionTitle": "اختر خطة الاشتراك",
-        "subscriptionOptions": [
-            "شهر واحد | 29.99 دولار",
-            "3 أشهر | 159.99 دولار",
-            "12 شهراً | 299.99 دولار",
-            "مدى الحياة | 16.99 دولار"
-        ],
-        "almostSoldOut": "تقريباً نفد من المخزون"
+        "addToCartButton": "أضف إلى السلة"
     },
-    "ae": {
-        "subscriptionTitle": "اختر خطة الاشتراك",
-        "subscriptionOptions": [
-            "شهر واحد | 29.99 دولار",
-            "3 أشهر | 159.99 دولار",
-            "12 شهراً | 299.99 دولار",
-            "مدى الحياة | 16.99 دولار"
-        ],
-        "almostSoldOut": "تقريباً نفد من المخزون"
+    "es": {
+        "subscriptionTitle": "Elige el plan de suscripción",
+        "addToCartButton": "Agregar al carrito"
     },
-    "kw": {
-        "subscriptionTitle": "اختر خطة الاشتراك",
-        "subscriptionOptions": [
-            "شهر واحد | 29.99 دولار",
-            "3 أشهر | 159.99 دولار",
-            "12 شهراً | 299.99 دولار",
-            "مدى الحياة | 16.99 دولار"
-        ],
-        "almostSoldOut": "تقريباً نفد من المخزون"
-    },
-    "qa": {
-        "subscriptionTitle": "اختر خطة الاشتراك",
-        "subscriptionOptions": [
-            "شهر واحد | 29.99 دولار",
-            "3 أشهر | 159.99 دولار",
-            "12 شهراً | 299.99 دولار",
-            "مدى الحياة | 16.99 دولار"
-        ],
-        "almostSoldOut": "تقريباً نفد من المخزون"
-    },
-    "om": {
-        "subscriptionTitle": "اختر خطة الاشتراك",
-        "subscriptionOptions": [
-            "شهر واحد | 29.99 دولار",
-            "3 أشهر | 159.99 دولار",
-            "12 شهراً | 299.99 دولار",
-            "مدى الحياة | 16.99 دولار"
-        ],
-        "almostSoldOut": "تقريباً نفد من المخزون"
-    },
-    "bh": {
-        "subscriptionTitle": "اختر خطة الاشتراك",
-        "subscriptionOptions": [
-            "شهر واحد | 29.99 دولار",
-            "3 أشهر | 159.99 دولار",
-            "12 شهراً | 299.99 دولار",
-            "مدى الحياة | 16.99 دولار"
-        ],
-        "almostSoldOut": "تقريباً نفد من المخزون"
-    },
-    "ma": {
-        "subscriptionTitle": "اختر خطة الاشتراك",
-        "subscriptionOptions": [
-            "شهر واحد | 45.99 دولار",
-            "3 أشهر | 159.99 دولار",
-            "12 شهراً | 299.99 دولار",
-            "مدى الحياة | 16.99 دولار"
-        ],
-        "almostSoldOut": "تقريباً نفد من المخزون"
-    },
-    "default": {
+    "en": {
         "subscriptionTitle": "Choose Subscription plan",
-        "subscriptionOptions": [
-            "1 month | $29.99",
-            "3 month | $159.99",
-            "12 month | $299.99",
-            "Lifetime | $16.99"
-        ],
-        "almostSoldOut": "Almost sold out"
+        "addToCartButton": "Add to Cart"
+    },
+    "fr": {
+        "subscriptionTitle": "Choisissez un plan d'abonnement",
+        "addToCartButton": "Ajouter au panier"
     }
 }
