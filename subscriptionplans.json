@@ -1,66 +1,14 @@
 {
     "ar": {
-        "subscriptionTitle": "اختر خطة الاشتراك",
-        "addToCartButton": {
-            "text": "أضف إلى السلة",
-            "style": {
-                "backgroundColor": "#E91E63",
-                "color": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px 20px",
-                "fontSize": "16px",
-                "fontWeight": "bold",
-                "border": "none",
-                "cursor": "pointer"
-            }
-        }
+        "subscriptionTitle": "اختر خطة الاشتراك"
     },
     "es": {
-        "subscriptionTitle": "Elige el plan de suscripción",
-        "addToCartButton": {
-            "text": "Agregar al carrito",
-            "style": {
-                "backgroundColor": "#E91E63",
-                "color": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px 20px",
-                "fontSize": "16px",
-                "fontWeight": "bold",
-                "border": "none",
-                "cursor": "pointer"
-            }
-        }
+        "subscriptionTitle": "Elige el plan de suscripción"
     },
     "en": {
-        "subscriptionTitle": "Choose Subscription plan",
-        "addToCartButton": {
-            "text": "Add to Cart",
-            "style": {
-                "backgroundColor": "#E91E63",
-                "color": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px 20px",
-                "fontSize": "16px",
-                "fontWeight": "bold",
-                "border": "none",
-                "cursor": "pointer"
-            }
-        }
+        "subscriptionTitle": "Choose Subscription plan"
     },
     "fr": {
-        "subscriptionTitle": "Choisissez un plan d'abonnement",
-        "addToCartButton": {
-            "text": "Ajouter au panier",
-            "style": {
-                "backgroundColor": "#E91E63",
-                "color": "#FFFFFF",
-                "borderRadius": "5px",
-                "padding": "10px 20px",
-                "fontSize": "16px",
-                "fontWeight": "bold",
-                "border": "none",
-                "cursor": "pointer"
-            }
-        }
+        "subscriptionTitle": "Choisissez un plan d'abonnement"
     }
 }
