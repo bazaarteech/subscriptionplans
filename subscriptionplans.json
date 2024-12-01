@@ -1,9 +1,8 @@
 {
     "ar": {
         "subscriptionTitle": "اختر خطة الاشتراك",
-        "addToCartButton": {
-            "text": "أضف إلى السلة"
-        }
+        "addToCartButton": "أضف إلى السلة",
+            
     },
     "es": {
         "subscriptionTitle": "Elige el plan de suscripción",
