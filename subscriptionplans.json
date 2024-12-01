@@ -1,25 +1,25 @@
 {
     "ar": {
         "subscriptionTitle": "اختر خطة الاشتراك",
-        "addToCartButton": "أضف إلى السلة",
+        "addToCartButton": "إضافة إلى السلة",
             
     },
     "es": {
         "subscriptionTitle": "Elige el plan de suscripción",
-        "addToCartButton": {
-            "text": "Agregar al carrito"
-        }
+        "addToCartButton": "Agregar al carrito",
+            
+        
     },
     "en": {
         "subscriptionTitle": "Choose Subscription plan",
-        "addToCartButton": {
-            "text": "Add to Cart"
-        }
+        "addToCartButton": "Add to Cart",
+            
+        
     },
     "fr": {
         "subscriptionTitle": "Choisissez un plan d'abonnement",
-        "addToCartButton": {
-            "text": "Ajouter au panier"
-        }
+        "addToCartButton": "Ajouter au panier",
+            
+        
     }
 }
